@@ -1,0 +1,1 @@
+this repo was created to keep track of my solutions for SQL 50 on leetcode.
